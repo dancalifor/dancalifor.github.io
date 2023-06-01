@@ -2,6 +2,7 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 /*First section with header*/
@@ -35,8 +36,8 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     text-align: justify;
-    height: 50%;
-    width: 50%;
+    height: auto;
+    width: 80%;
     border-radius: 25px;
 }
 
